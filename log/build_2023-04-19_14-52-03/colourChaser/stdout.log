@@ -1,0 +1,46 @@
+running egg_info
+creating ../../build/colourChaser/colourChaser.egg-info
+writing ../../build/colourChaser/colourChaser.egg-info/PKG-INFO
+writing dependency_links to ../../build/colourChaser/colourChaser.egg-info/dependency_links.txt
+writing entry points to ../../build/colourChaser/colourChaser.egg-info/entry_points.txt
+writing requirements to ../../build/colourChaser/colourChaser.egg-info/requires.txt
+writing top-level names to ../../build/colourChaser/colourChaser.egg-info/top_level.txt
+writing manifest file '../../build/colourChaser/colourChaser.egg-info/SOURCES.txt'
+reading manifest file '../../build/colourChaser/colourChaser.egg-info/SOURCES.txt'
+writing manifest file '../../build/colourChaser/colourChaser.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build
+creating /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib
+creating /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser
+copying colourChaser/roaming.py -> /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser
+copying colourChaser/colourChaser.py -> /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser
+copying colourChaser/collision.py -> /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser
+copying colourChaser/__init__.py -> /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser
+running install
+running install_lib
+creating /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser
+copying /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser/roaming.py -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser
+copying /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser/colourChaser.py -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser
+copying /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser/collision.py -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser
+copying /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser/__init__.py -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser
+byte-compiling /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser/roaming.py to roaming.cpython-310.pyc
+byte-compiling /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser/colourChaser.py to colourChaser.cpython-310.pyc
+byte-compiling /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser/collision.py to collision.cpython-310.pyc
+byte-compiling /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/ament_index
+creating /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/ament_index/resource_index
+creating /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/ament_index/resource_index/packages
+copying resource/colourChaser -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/ament_index/resource_index/packages
+copying package.xml -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/colourChaser
+copying launch/twist_mux_launch.py -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/colourChaser
+creating /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/colourChaser/config
+copying config/twist_mux_topics.yaml -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/colourChaser/config
+copying config/twist_mux_locks.yaml -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/share/colourChaser/config
+running install_egg_info
+Copying ../../build/colourChaser/colourChaser.egg-info to /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser-0.0.0-py3.10.egg-info
+running install_scripts
+Installing chaser script to /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/colourChaser
+Installing roamer script to /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/colourChaser
+writing list of installed files to '/home/kasm-user/Desktop/ros2_ws/build/colourChaser/install.log'

@@ -1,0 +1,34 @@
+[0.688s] Invoking command in '/home/kasm-user/Desktop/ros2_ws/src/colourChaser': PS1=default:\w$ PYTHONPATH=/home/kasm-user/Desktop/ros2_ws/build/colourChaser/prefix_override:/home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/colourChaser build --build-base /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build install --record /home/kasm-user/Desktop/ros2_ws/build/colourChaser/install.log --single-version-externally-managed
+[0.953s] running egg_info
+[0.953s] writing ../../build/colourChaser/colourChaser.egg-info/PKG-INFO
+[0.953s] writing dependency_links to ../../build/colourChaser/colourChaser.egg-info/dependency_links.txt
+[0.954s] writing entry points to ../../build/colourChaser/colourChaser.egg-info/entry_points.txt
+[0.954s] writing requirements to ../../build/colourChaser/colourChaser.egg-info/requires.txt
+[0.954s] writing top-level names to ../../build/colourChaser/colourChaser.egg-info/top_level.txt
+[0.956s] reading manifest file '../../build/colourChaser/colourChaser.egg-info/SOURCES.txt'
+[0.957s] writing manifest file '../../build/colourChaser/colourChaser.egg-info/SOURCES.txt'
+[0.958s] running build
+[0.958s] running build_py
+[0.958s] copying colourChaser/roaming.py -> /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser
+[0.958s] copying colourChaser/colourChaser.py -> /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser
+[0.959s] copying colourChaser/collision.py -> /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser
+[0.959s] running install
+[0.959s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.960s]   warnings.warn(
+[0.960s] running install_lib
+[0.960s] copying /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser/roaming.py -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser
+[0.961s] copying /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser/colourChaser.py -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser
+[0.961s] copying /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build/lib/colourChaser/collision.py -> /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser
+[0.962s] byte-compiling /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser/roaming.py to roaming.cpython-310.pyc
+[0.963s] byte-compiling /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser/colourChaser.py to colourChaser.cpython-310.pyc
+[0.964s] byte-compiling /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser/collision.py to collision.cpython-310.pyc
+[0.965s] running install_data
+[0.966s] running install_egg_info
+[0.968s] removing '/home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser-0.0.0-py3.10.egg-info' (and everything under it)
+[0.968s] Copying ../../build/colourChaser/colourChaser.egg-info to /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages/colourChaser-0.0.0-py3.10.egg-info
+[0.970s] running install_scripts
+[0.996s] Installing chaser script to /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/colourChaser
+[0.996s] Installing collision script to /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/colourChaser
+[0.997s] Installing roamer script to /home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/colourChaser
+[0.997s] writing list of installed files to '/home/kasm-user/Desktop/ros2_ws/build/colourChaser/install.log'
+[1.023s] Invoked command in '/home/kasm-user/Desktop/ros2_ws/src/colourChaser' returned '0': PS1=default:\w$ PYTHONPATH=/home/kasm-user/Desktop/ros2_ws/build/colourChaser/prefix_override:/home/kasm-user/Desktop/ros2_ws/install/colourChaser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/colourChaser build --build-base /home/kasm-user/Desktop/ros2_ws/build/colourChaser/build install --record /home/kasm-user/Desktop/ros2_ws/build/colourChaser/install.log --single-version-externally-managed

@@ -1,0 +1,5 @@
+[console_scripts]
+chaser = colourChaser.colourChaser:main
+collision = colourChaser.collision:main
+roamer = colourChaser.roaming:main
+
